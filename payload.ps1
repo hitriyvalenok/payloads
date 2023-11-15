@@ -1,1 +1,1 @@
- $PSScriptRoot
+$MyInvocation
